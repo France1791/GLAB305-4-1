@@ -83,6 +83,10 @@ public class User {
     public void setCity(String city) {
         this.city = city;
     }
+
+    public void setFullName(String jamesSantana) {
+
+    }
 }
 
 
